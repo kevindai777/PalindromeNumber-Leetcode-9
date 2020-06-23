@@ -16,4 +16,4 @@ while (temp > 0) {
     temp = Math.floor(temp / 10)
 }
 
-number == result
+return number == result

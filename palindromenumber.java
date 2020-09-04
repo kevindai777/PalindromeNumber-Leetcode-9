@@ -1,4 +1,4 @@
-//Javascript solution published in Java
+//Java Solution
 
 class Solution {
     public boolean isPalindrome(int x) {
